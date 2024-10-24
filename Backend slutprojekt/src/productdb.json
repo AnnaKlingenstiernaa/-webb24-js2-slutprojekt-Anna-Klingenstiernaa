@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Opal Huggies",
+    "price": 599,
+    "inStock": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0589/0723/0373/products/IMG_4189_cut2withcolorchange_600x.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Harper Medium Hoops",
+    "price": 699,
+    "inStock": 3,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0589/0723/0373/products/IMG_1554_4__cut_600x.jpg"
+  },
+  {
+    "id": 3,
+    "name": "White Opal Huggies",
+    "price": 399,
+    "inStock": 4990,
+    "imageUrl": "https://www.mondaymonarch.com/cdn/shop/products/IMG_4197-whiteopal_2__cutwithcolorspots_506x.jpg?v=1681325293"
+  },
+  {
+    "id": 4,
+    "name": "Astra Huggie Hoops",
+    "price": 499,
+    "inStock": 6,
+    "imageUrl": "https://www.mondaymonarch.com/cdn/shop/files/IMG_6640-paveXcut2_506x.jpg?v=1694523244"
+  },
+  {
+    "id": 5,
+    "name": "Classic Link Hoops",
+    "price": 899,
+    "inStock": 20,
+    "imageUrl": "https://www.mondaymonarch.com/cdn/shop/files/linkhoop1_cut_edited_506x.jpg?v=1695580828"
+  },
+  {
+    "id": 6,
+    "name": "Emerald Dangle Huggies",
+    "price": 549,
+    "inStock": 11,
+    "imageUrl": "https://www.mondaymonarch.com/cdn/shop/products/IMG_3017Emeralddangle_1__CUT_506x.jpg?v=1681329555"
+  }
+]

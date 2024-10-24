@@ -1,0 +1,89 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f0f0f0; 
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar {
+    background-color: #ffffff;
+    border-bottom: 2px solid #eaeaea; 
+    padding: 15px 30px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.product-grid {
+    display: flex;
+    flex-wrap: wrap; /* Gör att rader kan gå om de inte får plats */
+    justify-content: space-between; /* Utrymme mellan varje kort */
+    gap: 20px; /* Utrymme mellan korten */
+}
+
+.product-card {
+    flex: 0 1 calc(33.33% - 20px); /* Tre kort per rad */
+    box-sizing: border-box; /* För att inkludera padding/marginal i storleken */
+    background-color: #fff;
+    border: 1px solid #eaeaea;
+    margin: 10px 0; /* Marginal ovanför och under korten */
+    padding: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.product-card img {
+    width: 100%; /* Bilden anpassas till kortets bredd */
+    height: auto;
+}
+
+
+button {
+    background-color: #000; 
+    color: white;
+    border: none; 
+    border-radius: 0; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+    width: 100%; 
+}
+
+button:hover {
+    background-color: #444;
+ }
+
+
+.cart-item-image {
+    width: 50px; 
+    height: auto;
+}
+
+
+#filterdropdown {
+    margin: 20px ;
+}
+
+
+h3 {
+    color: #4CAF50; 
+    text-align: center; 
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    width: 200px; 
+    margin-right: 10px; 
+}
+
+h2, h3 {
+    margin: 10px 0; 
+    text-align: center; 
+}
+
+

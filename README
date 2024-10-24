@@ -1,0 +1,13 @@
+Projektbeskrivning:
+Denna webbshop är en Single Page Application skapad med React. Användare kan se en lista över produkter, lägga till dem i en kundvagn och genomföra köp. Appen har en enkel och användarvänlig design.
+
+Funktioner:
+Produktsida: Visar en lista över produkter inklusive namn, bild, pris och lagersaldo.
+Kundvagn: Användaren kan lägga till produkter i kundvagnen och se antalet produkter, samt den totala kostnaden.
+Genomför Köp: Uppdaterar lagersaldot när ett köp genomförs och visar en bekräftelse. Kundvagnen töms efter ett genomfört köp.
+Sökfunktion: Användaren kan söka efter specifika produkter.
+Sortering: Produkter kan sorteras baserat på pris i stigande eller fallande ordning.
+Navbar: En enkel navigeringsmeny för att växla mellan produktsidan och kundvagnen.
+
+Skapad med Reactkomponenter
+Backend skapad med Node.js
