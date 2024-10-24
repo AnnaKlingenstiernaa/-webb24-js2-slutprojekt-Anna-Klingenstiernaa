@@ -52,6 +52,16 @@ button {
     width: 100%; 
 }
 
+button:disabled {
+    background-color: grey; 
+    color: white;
+    border: none; 
+    border-radius: 0; 
+    padding: 10px 20px; 
+    cursor: not-allowed; 
+    width: 100%; 
+}
+
 button:hover {
     background-color: #444;
  }

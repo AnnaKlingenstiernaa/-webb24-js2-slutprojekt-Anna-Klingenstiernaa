@@ -1,7 +1,6 @@
 export function PayButton({ onPay }) {
     const handleClick = () => {
-        console.log("Betala-knappen klickad");
-        onPay();
+        onPay(); 
     };
 
     return (
